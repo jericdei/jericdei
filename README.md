@@ -1,6 +1,8 @@
 - 👋 Hi there! I'm Jeric
 - I'm a Full-stack Developer based in Manila. I love to create interactive web applications from backend, frontend and the infrastructure itself.
 
+Visit my portfolio @ <a href="https://jericdei.github.io" target="_blank">https://jericdei.github.io</a>
+
 ## My Tech Stack
 - Generally, I'm always curious with new technologies in building applications.
 - I'm a big fan of using PHP (Laravel) in the backend for most of my applications. I also like to create flexible backends using TypeScript (Node/Bun, Express, Nest) when needed.
